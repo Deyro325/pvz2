@@ -1,0 +1,12 @@
+body{
+background-image: url("Background.jpg");
+background-repeat: no-repeat;
+background-size: 100%;
+}
+img{
+	height: 30%;
+	width: 25%;
+}
+p{
+	color: white;
+}
